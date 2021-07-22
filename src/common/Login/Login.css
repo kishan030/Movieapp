@@ -1,0 +1,12 @@
+.login{
+    display: flex;
+    padding: 10px;
+}
+
+
+.header_login{
+    display: flex;
+    align-items: center;
+    padding: 1.5rem;
+    
+}
